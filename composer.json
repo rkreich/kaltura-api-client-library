@@ -1,0 +1,22 @@
+{
+    "name": "rkreich/kaltura-api-client-library",
+    "description": "A Composer package for the Kaltura API client library",
+    "keywords": ["kaltura", "client library", "video", "open source video", "video platform", "api"],
+    "minimum-stability": "dev",
+    "license": "",
+    "authors": [
+        {
+            "name": "Kaltura",
+            "homepage": "http://www.kaltura.org/"
+        },
+        {
+            "name": "Roman Kreichman",
+            "homepage": "https://github.com/rkreich"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Kaltura": "library"
+        }
+    }
+}
